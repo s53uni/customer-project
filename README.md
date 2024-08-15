@@ -49,6 +49,13 @@ kaggle의 Retail-Case-Study-Data를 사용했다.
 <br><br>
 
 ### 탐색적 데이터 분석
+
+#### 년월별 매출 분포
+![년월별_매출분포](https://github.com/user-attachments/assets/1813ee27-792d-4968-8dcc-d84377b4ec74)
+- 2014년 1월부터 주문이 불규칙하게 발생하기 시작함
+- 이슈 파악 후 전략 개선이 필요함
+<br><br>
+
 #### 구매 월별 주문건수 분포
 ![구매월별_주문건수_분포](https://github.com/user-attachments/assets/a57bf30c-60f1-4271-b58b-8967a28b9526)
 - 1월의 주문 건수가 가장 많으며, 이는 쇼핑 시즌과 관련이 있을 가능성이 있음
@@ -77,13 +84,8 @@ kaggle의 Retail-Case-Study-Data를 사용했다.
 ![매장유형별_매출분포](https://github.com/user-attachments/assets/9e2af6a0-c010-4819-8529-76013d7de591)
 - e-Shop에서의 주문 수가 다른 매장에 비해 두 배 이상 높게 나타남
 - 이에 따라 e-Shop을 중심으로 한 집중적인 마케팅 전략이 필요할 것으로 판단됨
-<br><br>
-
-#### 일자별 매출 분포
-![일자별_매출분포](https://github.com/user-attachments/assets/7038fd7a-2b0b-4cba-a4f9-79c7f3f040ef)
-- 2014년 2월부터 주문이 불규칙하게 발생하기 시작함
-- 데이터의 이상치이거나 특정 이슈가 발생했을 가능성이 있음
 <br>
+
 <p align="right"><a href="#top">⬆️TOP</a></p>
 
 ### 코호트 분석

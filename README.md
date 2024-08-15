@@ -51,14 +51,15 @@ kaggle의 Retail-Case-Study-Data를 사용했다.
 ### 탐색적 데이터 분석
 
 #### 년월별 매출 분포
-![년월별_매출분포](https://github.com/user-attachments/assets/1813ee27-792d-4968-8dcc-d84377b4ec74)
+![년월별_매출분포](https://github.com/user-attachments/assets/d8d10223-b733-43a6-b6ec-1d2e29a3e007)
 - 2014년 1월부터 주문이 불규칙하게 발생하기 시작함
 - 이슈 파악 후 전략 개선이 필요함
 <br><br>
 
 #### 구매 월별 주문건수 분포
-![구매월별_주문건수_분포](https://github.com/user-attachments/assets/a57bf30c-60f1-4271-b58b-8967a28b9526)
-- 1월의 주문 건수가 가장 많으며, 이는 쇼핑 시즌과 관련이 있을 가능성이 있음
+![구매월별_주문건수_분포](https://github.com/user-attachments/assets/2a59658c-6662-4b75-b41a-bd069360356b)
+- 2014년의 데이터가 불규칙하여 2013년까지의 데이터를 시각화함
+- 10월의 주문 건수가 가장 많으며, 이는 쇼핑 시즌과 관련이 있을 가능성이 있음
 <br><br>
 
 #### 총 거래 금액 분포
@@ -89,6 +90,11 @@ kaggle의 Retail-Case-Study-Data를 사용했다.
 <p align="right"><a href="#top">⬆️TOP</a></p>
 
 ### 코호트 분석
+2014년의 데이터가 전체의 4.57%만을 차지할 정도로 적었고, 갑작스러운 매출 감소의 원인을 파악하기 어려웠다.<br>
+따라서 전년도인 2013년도의 데이터를 분석하여 효과적인 전략을 도출하고, 이탈률이 큰 구간을 확인하여 새로운 전략을 수립하기로 하였다.
+
+<br>
+
 ![2013년_코호트분석](https://github.com/user-attachments/assets/e7585702-c4cc-43fc-9560-d9d71ef1eff2)
 
 #### 재구매 패턴 변화 분석

@@ -34,7 +34,6 @@ kaggle의 Retail-Case-Study-Data를 사용했다.
 데이터의 목표는 고객 정보, 거래 내역, 제품 데이터를 분석하여 효과적인 마케팅 전략을 수립하고, 이를 통해 매출을 증가시키는 것이다.
 <br><br>
 
-<p align="right"><a href="#top">⬆️TOP</a></p>
 
 ## 프로젝트 과정
 
@@ -73,7 +72,7 @@ kaggle의 Retail-Case-Study-Data를 사용했다.
 - Books, Electronics, Home and Kitchen 카테고리에서 높은 매출을 기록하고 있음
 - 이 역시 특정 고가 제품이나 대량 구매로 인한 매출 증가로 해석될 수 있음
 
-<p align="right"><a href="#top">⬆️TOP</a></p>
+<br><br>
 
 #### 도시별 매출 분포
 ![도시별_매출분포](https://github.com/user-attachments/assets/e13f49ae-7737-409d-b54e-6cbe162a7441)
@@ -87,7 +86,7 @@ kaggle의 Retail-Case-Study-Data를 사용했다.
 - 이에 따라 e-Shop을 중심으로 한 집중적인 마케팅 전략이 필요할 것으로 판단됨
 <br>
 
-<p align="right"><a href="#top">⬆️TOP</a></p>
+<h5 align="right"><a href="#top">⬆️TOP</a></h5>
 
 ### 코호트 분석
 2014년의 데이터가 전체의 4.57%만을 차지할 정도로 적었고, 갑작스러운 매출 감소의 원인을 파악하기 어려웠다.<br>
@@ -117,7 +116,7 @@ kaggle의 Retail-Case-Study-Data를 사용했다.
 현재의 마케팅 전략을 재평가하고, 고객과의 소통을 통해 변동의 원인을 파악한 후, 
 실시간 데이터 모니터링을 통해 문제 발생 시 신속하게 대응할 수 있는 시스템을 마련하는 등의 조치가 필요하다.
 <br>
-<p align="right"><a href="#top">⬆️TOP</a></p>
+<h5 align="right"><a href="#top">⬆️TOP</a></h5>
 
 ### 퍼널 분석
 ![고객퍼널_전환율및이탈률](https://github.com/user-attachments/assets/6bb8ed2a-c7de-4c62-8bdb-5b61dd883d9d)
@@ -135,7 +134,7 @@ kaggle의 Retail-Case-Study-Data를 사용했다.
 - 고객 충성도가 일정 수준 유지되고 있으나, 절반 이상의 고객이 재구매로 이어지지 않았음
 - 재구매율을 높이기 위해 제품 품질 향상, 할인, 멤버십 등의 프로모션을 도입하는 것이 필요함
 <br>
-<p align="right"><a href="#top">⬆️TOP</a></p>
+<h5 align="right"><a href="#top">⬆️TOP</a></h5>
 
 ### RFM 고객 세분화
 
@@ -187,7 +186,7 @@ kaggle의 Retail-Case-Study-Data를 사용했다.
 - 가장 큰 그룹(약 63.78%)이며, 구매 활동이 거의 없는 고객
 - 추가적인 마케팅 비용을 지출하기 보다는 브랜드 인지도를 높이는 방식으로 접근
 <br>
-<p align="right"><a href="#top">⬆️TOP</a></p>
+<h5 align="right"><a href="#top">⬆️TOP</a></h5>
 
 ### 고객 생애 가치 계산
 LTV = 총 매출 * 구매 횟수 * 고객 생애 기간
@@ -232,7 +231,7 @@ LTV = 총 매출 * 구매 횟수 * 고객 생애 기간
 - 핵심 충성 고객: 리마인더 이메일, 프로모션 등의 재참여 캠페인을 실행
 - 일반 가치 고객: 적극적으로 관리하여 회사를 홍보와 영향력 확보에 활용
 <br>
-<p align="right"><a href="#top">⬆️TOP</a></p>
+
 
 ## 결론
 첫 구매 후 재구매율이 시간이 지남에 따라 증가하여 6개월 후 9.7%로 상승했다. 
@@ -242,4 +241,4 @@ RFM 분석 결과, 핵심 가치 고객(111)이 가장 높은 평균 LTV인 246,
 핵심 충성 고객(011)은 평균 LTV 204,581.9원으로 높은 충성도를 보이고 있다. 
 따라서, 핵심 고객에게 맞춤 혜택과 로열티 프로그램을 제공하고, 충성 고객을 대상으로 재참여 캠페인을 전개해 매출을 극대화하는 전략이 필요하다.
 
-<p align="right"><a href="#top">⬆️TOP</a></p>
+<h5 align="right"><a href="#top">⬆️TOP</a></h5>
